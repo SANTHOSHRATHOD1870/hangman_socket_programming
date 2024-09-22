@@ -1,5 +1,4 @@
 # hangman_socket_programming
-# hangman_socket_programming
 
 Multi user gaming server
 
